@@ -2,8 +2,7 @@
 - 👀 I’m interested in emerging technologies
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on projects of ML
-- 
-- 
+
   
 
 <!---
